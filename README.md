@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 - Estou procurando colaborar em **projetos open-source**
 - Pergunte-me sobre **[Power Platform, SQL, Python, ETL, BI&A]**
 - Como me encontrar: [brnfa2011@gmail.com]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofalmeida88/)
 
 ## 📌 Projetos Principais
 
